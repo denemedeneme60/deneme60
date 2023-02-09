@@ -1,6 +1,10 @@
 public class yeniclass {
 
+<<<<<<< HEAD
     public Object classmubarak;
+=======
+    
+>>>>>>> main
 
     public void classmubarak()
     {
@@ -10,6 +14,10 @@ public class yeniclass {
     public void kutayinmetodu()
     {
         System.out.println("kutay");
+    }
+
+    public void furkanMethod(){
+        System.out.println("furkan özek 3169");
     }
 
 }
