@@ -6,4 +6,8 @@ public class yeniclass {
     System.out.println("Kargasa cikmaz ins");
     }
 
+    public void ahmetinfonk(){
+        System.out.println("kargaşa çikmadi.");
+    }
+
 }
