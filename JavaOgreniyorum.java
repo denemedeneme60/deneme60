@@ -14,5 +14,6 @@ public class JavaOgreniyorum {
         
         yeniclass furkan = new yeniclass(); 
         furkan.classmubarak(); 
+        furkan.kutayinmetodu();
     }
 }
