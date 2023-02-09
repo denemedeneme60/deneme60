@@ -12,12 +12,10 @@ public class yeniclass {
         System.out.println("kutay");
     }
 
-<<<<<<< HEAD
     public void yagizinfonksiyonu()
     {
         System.out.println("Yagiz was here");
     }
-=======
 
     public void utkuMethod()
     {
@@ -25,9 +23,8 @@ public class yeniclass {
     }
     public void ahmetinfonk(){
         System.out.println("kargaşa çikmadi.");}
+        
     public void furkanMethod(){
         System.out.println("furkan özek 3169");
     }
-
->>>>>>> main
 }
