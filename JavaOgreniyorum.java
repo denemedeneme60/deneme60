@@ -11,10 +11,6 @@ public class JavaOgreniyorum {
 
         System.out.println("selamlar istanbul");
         System.out.println("74. yurttan selamlar!");
-
-        yeniclass furkan = new yeniclass() ;
-        furkan.classmubarak();
-
         
     }
 }
