@@ -6,7 +6,10 @@ public class yeniclass {
     {
     System.out.println("Yeni class denemesi");
     System.out.println("Kargasa cikmaz ins");
+    System.out.println("Yağızın amına koyayım 603169");
     }
+
+    
     public void kutayinmetodu()
     {
         System.out.println("kutay");
