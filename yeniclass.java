@@ -1,11 +1,7 @@
 public class yeniclass {
 
-<<<<<<< HEAD
-    public Object classmubarak;
-=======
-    
->>>>>>> main
 
+    public Object classmubarak;
     public void classmubarak()
     {
     System.out.println("Yeni class denemesi");
@@ -17,7 +13,7 @@ public class yeniclass {
     }
 
     public void ahmetinfonk(){
-        System.out.println("kargaşa çikmadi.")}
+        System.out.println("kargaşa çikmadi.");}
     public void furkanMethod(){
         System.out.println("furkan özek 3169");
     }
