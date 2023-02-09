@@ -1,5 +1,7 @@
 public class yeniclass {
 
+    
+
     public void classmubarak()
     {
     System.out.println("Yeni class denemesi");
@@ -11,4 +13,8 @@ public class yeniclass {
     {
         System.out.println("45");
     }
+    public void furkanMethod(){
+        System.out.println("furkan özek 3169");
+    }
+
 }
