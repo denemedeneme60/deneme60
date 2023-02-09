@@ -12,6 +12,11 @@ public class yeniclass {
         System.out.println("kutay");
     }
 
+
+    public void utkuMethod()
+    {
+        System.out.println("45");
+    }
     public void ahmetinfonk(){
         System.out.println("kargaşa çikmadi.");}
     public void furkanMethod(){
