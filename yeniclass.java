@@ -8,13 +8,10 @@ public class yeniclass {
     System.out.println("Kargasa cikmaz ins");
     }
 
-<<<<<<< HEAD
     public void ahmetinfonk(){
-        System.out.println("kargaşa çikmadi.");
-=======
+        System.out.println("kargaşa çikmadi.")}
     public void furkanMethod(){
         System.out.println("furkan özek 3169");
->>>>>>> main
     }
 
 }
