@@ -10,6 +10,7 @@ public class JavaOgreniyorum {
         System.out.println("Oldu mu beyler");
 
         System.out.println("selamlar istanbul");
+        System.out.println("74. yurttan selamlar!");
 
         
     }
