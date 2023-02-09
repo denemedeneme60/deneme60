@@ -6,4 +6,8 @@ public class yeniclass {
     System.out.println("Kargasa cikmaz ins");
     }
 
+    public void yagizinfonksiyonu()
+    {
+        System.out.println("Yagiz was here");
+    }
 }
