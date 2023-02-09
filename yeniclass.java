@@ -6,4 +6,9 @@ public class yeniclass {
     System.out.println("Kargasa cikmaz ins");
     }
 
+
+    public void utkuMethod()
+    {
+        System.out.println("45");
+    }
 }
